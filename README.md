@@ -4,7 +4,7 @@ Integration layer between:
 - **`paco-lean`**: generic parametrized coinduction infrastructure
 - **`QpfTypes`**: QPF-based (co)datatype framework and concrete structures
 
-This package hosts *bridge proofs* that depend on both sides (e.g. paco-based
+This package hosts bridge proofs that depend on both sides (e.g. paco-based
 results about QPF/ITree relations).
 
 ## Contents (examples)
