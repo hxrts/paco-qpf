@@ -8,4 +8,4 @@ package paco_qpf {
 lean_lib PacoQpf
 
 require paco from git "https://github.com/hxrts/paco-lean.git"@"main"
-require Qpf from git "https://github.com/hxrts/QpfTypes.git"@"main"
+require Qpf from "../QpfTypes"
