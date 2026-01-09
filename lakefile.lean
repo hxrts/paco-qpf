@@ -7,5 +7,5 @@ package paco_qpf {
 @[default_target]
 lean_lib PacoQpf
 
-require paco from "../paco-lean"
-require Qpf from "../.."
+require paco from git "https://github.com/hxrts/paco-lean.git"@"main"
+require Qpf from git "https://github.com/hxrts/QpfTypes.git"@"main"
